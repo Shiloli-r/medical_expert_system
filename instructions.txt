@@ -1,0 +1,10 @@
+How to Run:
+1. Open the Project Folder
+2. Click the CLIPSIDE64.EXE and open the application
+3. Go to `File` > `Load` > `Project folder` > `expert_system.clp`
+4. Go to `Execution` > `Run`
+5. Interact with the program
+
+		!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+			CHECK README FOR CLEARER INSTRUCTIONS
+		!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
