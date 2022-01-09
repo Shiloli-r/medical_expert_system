@@ -19,12 +19,12 @@ Medical Expert System to Predict Hepatitis Infection Status created in Clips
 
 ## Decision Graph
 The Expert system follows the following decision graph (found online): <br><br>
-<img src="decision-graph.png" width=700>
+<img src="img/decision-graph.png" width=700>
 
 <br><br>
 
 ## Sample Output
 Sample output from the Expert System
 
-<img src="output.png" width=700>
+<img src="img/output.png" width=700>
 
