@@ -1,0 +1,1 @@
+(deftemplate patient(slot name)(slot age)(slot sex))
