@@ -26,5 +26,5 @@ The Expert system follows the following decision graph (found online): <br><br>
 ## Sample Output
 Sample output from the Expert System
 
-<img src="img/output.png" width=700>
+<img src="img/output.PNG" width=700>
 
